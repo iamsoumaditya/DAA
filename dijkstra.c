@@ -75,3 +75,19 @@ int main()
     dijkstra(2);
     return 0;
 }
+
+
+/*
+Output: -
+
+Shortest Paths from source is : 
+2->8->0 Cost : 7 
+2->1 Cost : 7 
+2 Cost : 0 
+2->3 Cost : 8 
+2->8->4 Cost : 8 
+2->8->6->5 Cost : 10 
+2->8->6 Cost : 9 
+2->8->6->7 Cost : 11 
+2->8 Cost : 6
+*/

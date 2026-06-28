@@ -67,3 +67,19 @@ int main(){
     prims(2);
     return 0;
 }
+
+/*
+Output:-
+
+The MST of the graph is:
+0 - 7 => 8
+1 - 0 => 4
+3 - 2 => 7
+4 - 3 => 9
+5 - 2 => 4
+6 - 5 => 2
+7 - 6 => 1
+8 - 2 => 2
+
+Totalcost of the MST:  37
+*/
